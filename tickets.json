@@ -1,0 +1,9 @@
+[
+  {
+    "customer_message": "I was charged twice for order 4521.",
+    "category": "billing",
+    "urgency": "medium",
+    "summary": "Duplicate charge for order 4521",
+    "reply": "I\u2019m sorry to hear that you\u2019ve been charged twice for order\u202f4521. Let\u2019s get this sorted out for you.\n\nCould you please confirm the date and the amount of the duplicate charge that appears on your statement? If you have a screenshot or the transaction ID, that would help us locate it quickly.\n\nOnce we have that information, we\u2019ll review the payment records and make sure the extra charge is removed. I\u2019ll keep you updated on the progress and let you know when the correction has been applied."
+  }
+]
